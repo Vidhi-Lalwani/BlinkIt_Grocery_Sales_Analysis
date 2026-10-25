@@ -67,8 +67,19 @@ These findings describe patterns in the available dataset. They do not establish
 - This is a descriptive analysis, not a predictive sales model.
 - Correlation does not establish causation
 
+## 9. Learning Outcomes 
 
-## 9. Author
+As my first independent exploratory data analysis (EDA) project, this project helped me apply my understanding of Python to a practical dataset. During the process, I gained hands-on experience with:
+
+- Inspecting and cleaning data, including handling missing values and inconsistent categories.
+- Using Pandas and NumPy to explore and summarize data.
+- Creating visualizations with Matplotlib to identify patterns.
+- Interpreting findings carefully and understanding the limitations of conclusions drawn from data.
+- Structuring and documenting an analysis in a Jupyter Notebook.
+
+This project also helped me understand that data analysis involves more than writing code: it requires asking meaningful questions, interpreting results, and communicating findings clearly.
+
+## 10. Author
 Vidhi Hitesh Lalwani
 
 - GitHub: https://github.com/Vidhi-Lalwani
